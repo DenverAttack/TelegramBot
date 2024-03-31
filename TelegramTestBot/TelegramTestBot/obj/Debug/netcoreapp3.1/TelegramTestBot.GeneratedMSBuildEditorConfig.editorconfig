@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TelegramTestBot
+build_property.ProjectDir = /Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

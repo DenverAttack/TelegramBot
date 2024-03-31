@@ -1,0 +1,5 @@
+/Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/obj/Debug/netcoreapp3.1/TelegramTestBot.csproj.AssemblyReference.cache
+/Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/obj/Debug/netcoreapp3.1/TelegramTestBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/obj/Debug/netcoreapp3.1/TelegramTestBot.AssemblyInfoInputs.cache
+/Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/obj/Debug/netcoreapp3.1/TelegramTestBot.AssemblyInfo.cs
+/Users/rosshodun/Documents/TelegramBot/TelegramTestBot/TelegramTestBot/obj/Debug/netcoreapp3.1/TelegramTestBot.csproj.CoreCompileInputs.cache
